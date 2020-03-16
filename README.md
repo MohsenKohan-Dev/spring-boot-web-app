@@ -1,3 +1,3 @@
-# Spring 5 Web Application
+# spring-boot-web-app
 
-This repo contains a sample spring web application
+A Sample Spring Boot Web Application

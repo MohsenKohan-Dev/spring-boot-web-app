@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.mohsenkohan</groupId>
-	<artifactId>spring5webapp</artifactId>
+	<artifactId>spring-boot-web-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring 5 Web Application</name>
-	<description>Sample Spring 5 Web Application</description>
+	<name>Spring Boot Web App</name>
+	<description>Spring Boot Web Application Project</description>
 
 	<properties>
 		<java.version>11</java.version>

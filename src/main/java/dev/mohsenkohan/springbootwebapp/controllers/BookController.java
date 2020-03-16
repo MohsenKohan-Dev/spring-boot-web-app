@@ -1,6 +1,6 @@
-package dev.mohsenkohan.spring5webapp.controllers;
+package dev.mohsenkohan.springbootwebapp.controllers;
 
-import dev.mohsenkohan.spring5webapp.repositories.BookRepository;
+import dev.mohsenkohan.springbootwebapp.repositories.BookRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,11 +1,11 @@
-package dev.mohsenkohan.spring5webapp.bootstrap;
+package dev.mohsenkohan.springbootwebapp.bootstrap;
 
-import dev.mohsenkohan.spring5webapp.domain.Author;
-import dev.mohsenkohan.spring5webapp.domain.Book;
-import dev.mohsenkohan.spring5webapp.domain.Publisher;
-import dev.mohsenkohan.spring5webapp.repositories.AuthorRepository;
-import dev.mohsenkohan.spring5webapp.repositories.BookRepository;
-import dev.mohsenkohan.spring5webapp.repositories.PublisherRepository;
+import dev.mohsenkohan.springbootwebapp.domain.Author;
+import dev.mohsenkohan.springbootwebapp.domain.Book;
+import dev.mohsenkohan.springbootwebapp.domain.Publisher;
+import dev.mohsenkohan.springbootwebapp.repositories.AuthorRepository;
+import dev.mohsenkohan.springbootwebapp.repositories.BookRepository;
+import dev.mohsenkohan.springbootwebapp.repositories.PublisherRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

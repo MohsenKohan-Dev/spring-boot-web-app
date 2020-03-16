@@ -1,10 +1,10 @@
-package dev.mohsenkohan.spring5webapp;
+package dev.mohsenkohan.springbootwebapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring5WebApplicationTests {
+class SpringBootWebApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package dev.mohsenkohan.spring5webapp.domain;
+package dev.mohsenkohan.springbootwebapp.domain;
 
 import javax.persistence.*;
 import java.util.HashSet;

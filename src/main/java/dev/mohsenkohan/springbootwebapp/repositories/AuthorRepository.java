@@ -1,6 +1,6 @@
-package dev.mohsenkohan.spring5webapp.repositories;
+package dev.mohsenkohan.springbootwebapp.repositories;
 
-import dev.mohsenkohan.spring5webapp.domain.Author;
+import dev.mohsenkohan.springbootwebapp.domain.Author;
 import org.springframework.data.repository.CrudRepository;
 
 public interface AuthorRepository extends CrudRepository<Author, Long> {

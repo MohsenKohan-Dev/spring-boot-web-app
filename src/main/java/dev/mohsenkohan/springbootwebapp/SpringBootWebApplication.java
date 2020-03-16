@@ -1,13 +1,13 @@
-package dev.mohsenkohan.spring5webapp;
+package dev.mohsenkohan.springbootwebapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Spring5WebApplication {
+public class SpringBootWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Spring5WebApplication.class, args);
+		SpringApplication.run(SpringBootWebApplication.class, args);
 	}
 
 }
